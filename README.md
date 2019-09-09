@@ -1,6 +1,7 @@
 # jwt-cli
 
-#### Simple container for decoding jwt tokens
+## Description
+Simple container for decoding jwt tokens.
 
 ## USAGE
 
